@@ -1,7 +1,11 @@
 body {
-    background-color: rgb(108, 108, 160);
+    background-color: rgb(255, 255, 255);
 }
 
-nav {
-    padding: 50rem;
+.jumbotron {
+    background-color: rgb(255, 255, 255);
+}
+
+.container {
+    float: center;
 }
